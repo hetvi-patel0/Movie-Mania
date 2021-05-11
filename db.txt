@@ -1,0 +1,50 @@
+Pulp Fiction|1944|154|John Travolta|Uma Thurman|Quentin Tarantino
+Pyaasa|1957|146|Mala Sinha|Rehman|Guru Dutt
+Psycho|1960|109|Anthony Perkins|Janet Leigh|Alfred Hitchcock
+Yojimbo|1961|110|Isuzu Yamada|Takashi Shimura|Akira Kurosawa
+Guide|1965|120|Dev Anand|Leela Chitnis|Vijay Anand
+The Graduate|1967|106|Dustin Hoffman|Katherine Ross|Mike Nichol
+The Gofather|1972|176|Marlon Brando|Al Pacino|Francis Ford Coppola
+The Sting|1973|129|Paul Newman|Robert Redford|George Roy Hill
+Chinatown|1974|131|John Huston|Faye Dunaway|Roman Polanski
+Jaws|1975|124|Roy Scheider|Robert Shaw|Steven Spielberg
+Network|1976|121|Peter Finch|Wiliiam Holden|Sidney Lumet
+Annie Hall|1977|93|Diane Keaton|Tony Roberts|Woody Allen
+Don|1978|166|Amitabh Bachchan|Zeenat Aman|Chandra Barot
+Alien|1979|117|John Hurt|Ian Holm|Ridley Scott
+Qurbani|1980|157|Amjad Khan|Vinod Khanna|Feroz Khan
+Tootsie|1982|116|Teri Garr|Jessica Lange|Sydney Pollack
+Masoom|1983|165|Jugal Hansraj|Shabana Azmi|Shekhar Kapur
+Amadeus|1984|161|Tom Hulce|Roy Dotrice|Milos Forman
+Karma|1986|193|Nutan|Dilip Kumar|Subhash Ghai
+Die Hard|1988|132|Bruce Willis|Alan Rickman|John McTiernan
+Ghayal|1990|163|Sunny Deol|Amrish Puri|Rajkumar Santoshi
+Deewana|1992|185|Divya Bharti|Rishi Kapoor|Raj Kanwar
+Baazigar|1993|175|Dalip Tahil|Kajol|Abbas Burmawalla
+Forrest Gump|1994|142|Tom Hanks|Robin Wright|Robert Zemeckis
+Heat|1995|170|Al Pacino|Val Kilmer|Michael Mann
+Raja Hindustani|1996|177|Karisma Kapoor|Johnny Lever|Dharmesh Darshan
+L.A. Confidential|1997|138|Kevin Spacey|Guy Pearce|Curtis Hanson
+Satya|1998|167|Manoj Bajpayee|Paresh Rawal|Ram Gopal Varma
+Fight Club|1999|139|Edward Norton|Brad Pitt|David Fincher
+Hera Pheri|2000|143|Akshay Kumar|Sunil Shetty|Priyadarshan
+Donnie Darko|2000|113|Jena Malone|Beth Grant|Richard Kelly
+City of God|2002|130|Sue Jorge|Alice Braga|Fernando Meirelles
+Kal ho naa ho|2003|132|Shah Rukh Khan|Preity Zinta|Nikhil Advani
+Swades|2004|203|Shah Rukh Khan|Kishori Ballal|Asutosh Gowariker
+Black|2005|122|Shernaz Patel|Ayesha Kapoor|Sanjay Leela Bhansali
+Omkara|2006|156|Ajay Devgn|Kareena Kapoor|Vishal Bhardwaj
+Jab We Met|2006|141|Shahid Kapoor|Kareena Kapoor|Imtiaz Ali
+A Wednesday|2008|104|Aamir Bashir|Anupam Kher|Neeraj Pandey
+Inception|2010|141|Ellen Page|Tom Hardy|Christopher Nolan
+No One Killed Jessica|22010|148|Neil Bhoopalam|Myra Karn|Raj Kumar Gupta
+Barfi|2011|150|Ranbir Kapoor|Priyanka Chopra|Anurag Basu
+The Lunchbox|2013|105|Irrfan Khan|Nimrat Kaur|Ritesh Batra
+Dedh Ishqiya|2014|152|Huma Qureshi|Madhuri Dixit|Abhishek Chaubey
+Piku|2015|123|Deepika Padukone|Balendar Singh|Shoojit Sircar
+Sultan|2016|171|Randeep Hooda|Salman Khan|Ali Abbas Zafar
+Mom|2017|147|Sridevi|Janhvi Kapoor|Ravi Udyawar
+Sanju|2018|155|Anushka Sharma|Ranbir Kapoor|Rajkumar Hirani
+Chhichhore|2019|132|Shraddha Kapoor|Varun Sharma|Nitesh Tiwari
+Ghost Stories|2020|155|Vijay Varma|Janhvi Kapoor|Zoya Akhtar
+Bang Bang|2014|156|Hrithik Roshan|Katrina Kaif|Siddhart Anand
